@@ -73,7 +73,7 @@ particlesJS(
       },
       modes: {
         grab: {
-          distance: 250,
+          distance: 200,
           line_linked: {
             opacity: 1,
           },
