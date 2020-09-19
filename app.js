@@ -4,7 +4,7 @@ particlesJS(
   {
     particles: {
       number: {
-        value: 30,
+        value: 40,
         density: {
           enable: true,
           value_area: 800,
@@ -73,7 +73,7 @@ particlesJS(
       },
       modes: {
         grab: {
-          distance: 250,
+          distance: 200,
           line_linked: {
             opacity: 1,
           },
